@@ -9,10 +9,10 @@ const path = require("path");
 
 /* ── 설정 ── */
 const SITE = "https://caneat.onlyonecorpceo.workers.dev"; // ⚠️ 실제 배포 URL로 수정
-const GA_ID = "G-XXXXXXXXXX";                              // ⚠️ index.html과 동일 GA ID로 수정
+const GA_ID = "G-EZMGMCB9X7";                              // ⚠️ index.html과 동일 GA ID로 수정
 const HUB = "https://main.onlyonecorpceo.workers.dev";
 const EMAIL = "onlyonecorpceo@gmail.com";
-const COUPANG_URL = "https://link.coupang.com/a/XXXXX";    // ⚠️ 쿠팡 파트너스 딥링크 (펫 간식)
+const COUPANG_URL = "https://link.coupang.com/a/flurRzshy0";    // ⚠️ 쿠팡 파트너스 딥링크 (펫 간식)
 const AMAZON_URL = "https://www.amazon.com/s?k=dog+cat+treats&tag=onlyone0c-20";
 const INDEX = path.join(__dirname, "index.html");
 
